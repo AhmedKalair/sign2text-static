@@ -1,0 +1,10 @@
+0 call
+1 friend
+2 house
+3 chicken_burger
+4 i_love_you
+5 love
+6 more
+7 one
+8 what
+9 you
